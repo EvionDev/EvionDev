@@ -9,5 +9,5 @@
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eviondev&show_icons=true&locale=en&layout=compact" alt="eviondev" /></p>
 <br/>
-<p align="right">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=eviondev&show_icons=true&locale=en" alt="eviondev" /></p>
+<p align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=eviondev&show_icons=true&locale=en" alt="eviondev" /></p>
 
