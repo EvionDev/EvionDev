@@ -17,7 +17,7 @@
   
   
   <p align="center">
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EvionDev&theme=dracula)
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EvionDev&theme=dracula)]
 </p>
 
 ## 📊 My Github Stats
