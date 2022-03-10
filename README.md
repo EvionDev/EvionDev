@@ -17,16 +17,9 @@
   
   
   <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="EvionDev" src="https://github-readme-streak-stats.herokuapp.com/?user=EvionDev&theme=dracula"/>
-    </a>
 </p>
-  
-  
-  <p align="center">
-   <img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EvionDev)](https://github.com/DenverCoder1/github-readme-streak-stats)">
-    
-</p>
+
 
 ## 📊 My Github Stats
 
