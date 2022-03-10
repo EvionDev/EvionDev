@@ -17,6 +17,7 @@
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EvionDev)](https://github.com/DenverCoder1/github-readme-streak-stats)
   <p align="center">
+   <a href=" [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EvionDev)](https://github.com/DenverCoder1/github-readme-streak-stats)"></a>
     [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EvionDev&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 </p>
 
