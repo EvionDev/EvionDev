@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif" width="30px">, I'm Eric</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Eric</h1>
 <h3 align="center">I'm a web developer</h3>
 
 ## 🙋‍♂️ About Me
