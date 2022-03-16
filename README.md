@@ -17,14 +17,14 @@
   <br/>
   
   <p align="center">
-        <img alt="EvionDev" src="https://github-readme-streak-stats.herokuapp.com/?user=EvionDev&theme=dracula"/>
+        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvionDev&layout=compact&theme=dracula)
   </p>
 
 
 ## 📊 My Github Stats
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvionDev&layout=compact&theme=dracula)
+<img alt="EvionDev" src="https://github-readme-streak-stats.herokuapp.com/?user=EvionDev&theme=dracula"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvionDev&show_icons=true&theme=dracula)
 
