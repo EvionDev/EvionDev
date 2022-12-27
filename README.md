@@ -27,6 +27,12 @@
     </ul>
 </details>
 
+<details> <summary> <b>📈 GitHub Stats </b> </summary>
+	<p align="center">
+        <img alt="EvionDev" src="https://github-readme-streak-stats.herokuapp.com/?user=EvionDev&theme=dracula"/>
+  </p>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvionDev&layout=compact&theme=dracula)
+</details>
 
 <!-- ## 🚀 Languages and Tools:
 <p align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
