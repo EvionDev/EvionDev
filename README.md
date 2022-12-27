@@ -28,7 +28,14 @@
 </details>
 
 <details> <summary> <b>📈 GitHub Stats </b> </summary>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvionDev&layout=compact&theme=dracula)
+	
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvionDev&show_icons=true)
+	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvionDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=EvionDev&label=Profile%20Views&color=11&icon=5&pretty=true" />
+</a>
 </details>
 
 <!-- ## 🚀 Languages and Tools:
