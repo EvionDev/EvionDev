@@ -29,9 +29,9 @@
 
 <details> <summary> <b>📈 GitHub Stats </b> </summary>
 	
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvionDev&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvionDev&show_icons=true&theme=dracula)
 	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvionDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvionDev&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </details>
