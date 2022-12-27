@@ -28,7 +28,7 @@
 </details>
 
 <details> <summary> <b>📈 GitHub Stats </b> </summary>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvionDev&layout=compact&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvionDev&show_icons=true&theme=dracula)
   <img alt="EvionDev" src="https://github-readme-streak-stats.herokuapp.com/?user=EvionDev&theme=dracula"/>
 </details>
 
