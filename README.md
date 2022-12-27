@@ -2,7 +2,7 @@
 
 <p>I've been programming from 2020 to present day. I wanna be a full stack developer.</p>
 
----
+<br>
 
 **🙋‍♂️ Something About Me**
 
