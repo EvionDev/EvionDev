@@ -29,7 +29,7 @@
 
 <details> <summary> <b>📈 GitHub Stats </b> </summary>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvionDev&layout=compact&theme=dracula)
+  <p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvionDev&layout=compact&theme=dracula)</p>
 </details>
 
 <!-- ## 🚀 Languages and Tools:
