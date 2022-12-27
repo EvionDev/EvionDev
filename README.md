@@ -28,9 +28,7 @@
 </details>
 
 <details> <summary> <b>📈 GitHub Stats </b> </summary>
-<!-- 	<p align="center">
-        <img alt="EvionDev" src="https://github-readme-streak-stats.herokuapp.com/?user=EvionDev&theme=dracula"/>
-  </p> -->
+
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvionDev&layout=compact&theme=dracula)
 </details>
 
