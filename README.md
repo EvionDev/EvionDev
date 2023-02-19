@@ -4,6 +4,8 @@
 
 <br>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/560924107651153960)](https://discord.com/users/560924107651153960)
+
 **🙋‍♂️ Something About Me**
 
 <ul>
