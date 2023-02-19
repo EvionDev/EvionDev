@@ -56,7 +56,7 @@
 
 <details><summary><b>📧 Contact me</b></summary>
     <ul>
-        <li><strong><a href="https://discord.com/users/560924107651153960">Discord: </strong> <code>Evion#5507</code></li>
+        <li><strong><a href="https://discord.com/users/560924107651153960">Discord: </a></strong> <code>Evion#5507</code></li>
       <li><strong><a href="https://www.linkedin.com/in/eryk-latasiewicz/"> Linkedin </a></strong></li>
     </ul>
 </details>
