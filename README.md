@@ -3,9 +3,9 @@
 <p>I've been programming from 2020 to present day. I wanna be a full stack developer.</p>
 
 <br>
-<a href="https://discord.com/users/560924107651153960"> [![Discord Presence](https://lanyard.cnrad.dev/api/560924107651153960)](https://discord.com/users/560924107651153960)</a>
+[![Discord Presence](https://lanyard.cnrad.dev/api/560924107651153960)](https://discord.com/users/560924107651153960)
 
-
+<br>
 
 **🙋‍♂️ Something About Me**
 
