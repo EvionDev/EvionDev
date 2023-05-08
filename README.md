@@ -12,7 +12,7 @@
 <ul>
   <li> 👦 I am 18 years old</li>
   <li> 🌱 I am coding in Javascript</li>
-  <li> 🔭 I am currently learning Vue.js</li>
+  <li> 🔭 I am currently learning Typescript</li>
 </ul>
 
 
