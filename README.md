@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Eric a front-end developer</h1>
 
-<p>I've been programming from 2020 to present day. I wanna be a full stack developer.</p>
+<p>I've been programming since 2020 to the present day. I want to become a full stack developer.</p>
 
 <br>
 
@@ -10,9 +10,9 @@
 **🙋‍♂️ Something About Me**
 
 <ul>
-  <li> 👦 I am 18 years old</li>
-  <li> 🌱 I am coding in Typescript(vue.js)</li>
-  <li> 🔭 I am currently learning Node.js</li>
+  <li> 👦 I am 19 years old</li>
+  <li> 🌱 I am coding in Typescript</li>
+  <li> 🔭 I am currently learning Django</li>
 </ul>
 
 
@@ -63,7 +63,7 @@
 
 <details><summary><b>📧 Contact me</b></summary>
     <ul>
-        <li><strong><a href="https://discord.com/users/560924107651153960">Discord: </a></strong> <code>Evion#5507</code></li>
+        <li><strong><a href="https://discord.com/users/560924107651153960">Discord: </a></strong> <code>_evion</code></li>
       <li><strong><a href="https://www.linkedin.com/in/eryk-latasiewicz/"> Linkedin </a></strong></li>
     </ul>
 </details>
