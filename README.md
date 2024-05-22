@@ -11,7 +11,6 @@
 
 <ul>
   <li> 👦 I am 19 years old</li>
-  <li> 🌱 I am coding in Typescript</li>
   <li> 🔭 I am currently learning Django</li>
 </ul>
 
